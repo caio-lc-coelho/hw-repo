@@ -1,1 +1,2 @@
 Homework week 3
+alert('Miguel is making a change.')
